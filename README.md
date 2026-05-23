@@ -1,7 +1,8 @@
 # Telco Customer Churn Analysis
 
 ## Project Overview
-This project analyzes customer churn for a telecommunications company using the **Telco Customer Churn** dataset. The goal is to identify key drivers of churn and provide actionable business recommendations. The analysis includes data cleaning, metric calculation, and data visualization using Python (pandas, seaborn, matplotlib).
+This project analyzes customer churn for a telecommunications company using the **[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)** dataset (source: IBM GitHub repository).  
+The goal is to identify key drivers of churn and provide actionable business recommendations. The analysis includes data cleaning, metric calculation, and data visualization using Python (pandas, seaborn, matplotlib).
 
 ## Key Findings (Executive Summary)
 
